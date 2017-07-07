@@ -11,20 +11,20 @@
 浏览器用系统自带浏览器或Google的Chrome，其他浏览器暂时不支持！！！
 1.百度找一个磁力网站，如下图。找到好用的，广告少的就收藏了
 
-![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_1.jpg)
+![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_1.png)
 
 2.根据关键字搜索自己想看的片子
 
-![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_2.jpg)
+![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_2.png)
 
 
 3.找到磁力链接，如下图，点击会自动跳转到播放器：
 
-![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_3.jpg)
+![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_3.png)
 
-![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_4.jpg)
+![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_4.png)
 
-![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_5.jpg)
+![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_5.png)
 
 浏览器用系统自带浏览器或Google的Chrome，其他浏览器暂时不支持！！！
 懂了没？没懂就卸载软件，这软件不适合你。。。
