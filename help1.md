@@ -7,9 +7,24 @@
 
 ![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_02.jpg)
 
-方法二：用浏览器播放\n浏览器用系统自带浏览器或Google的Chrome，其他浏览器暂时不支持！！！
+方法二：用浏览器播放
+浏览器用系统自带浏览器或Google的Chrome，其他浏览器暂时不支持！！！
 1.百度找一个磁力网站，如下图。找到好用的，广告少的就收藏了
+
+![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_1.jpg)
+
 2.根据关键字搜索自己想看的片子
+
+![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_2.jpg)
+
+
 3.找到磁力链接，如下图，点击会自动跳转到播放器：
 
-浏览器用系统自带浏览器或Google的Chrome，其他浏览器暂时不支持！！！\n懂了没？没懂就卸载软件，这软件不适合你。。。
+![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_3.jpg)
+
+![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_4.jpg)
+
+![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_5.jpg)
+
+浏览器用系统自带浏览器或Google的Chrome，其他浏览器暂时不支持！！！
+懂了没？没懂就卸载软件，这软件不适合你。。。
