@@ -2,8 +2,11 @@
 
 方法一：应用市场搜查“磁力全聚合”并下载，这款软件虽然有广告，但不至于让人讨厌：
 ![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_01.jpg)
+
 就是上面这款软件，不要下载错了，可以直接点击“Open”打开
+
 ![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_02.jpg)
+
 方法二：用浏览器播放\n浏览器用系统自带浏览器或Google的Chrome，其他浏览器暂时不支持！！！
 1.百度找一个磁力网站，如下图。找到好用的，广告少的就收藏了
 2.根据关键字搜索自己想看的片子
