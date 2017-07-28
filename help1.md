@@ -2,12 +2,12 @@
 
 注意：由于网络 服务器等原因，不是所有的视频都可以播放，但大部分视频是可以播放的，请各位新手司机耐心点，这是成为老司机的必经之路，祝各位开车愉快！！！
 
-方法一：应用市场搜查“磁力全聚合”并下载，这款软件虽然有广告，但不至于让人讨厌：
-![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_01.jpg)
+方法一：下载"磁力超级搜"，这款软件功能很强大：
+[点击下载](https://raw.githubusercontent.com/bobo369/test/master/cilisou-1.0.apk)
 
-就是上面这款软件，不要下载错了，可以直接点击“Open”打开
-
-![Image text](https://github.com/bobo369/test/blob/master/image/pic_help_02.jpg)
+就是上面这款软件，不要下载错了，可以直接点击搜索结果打开播放。
+![Image text](https://github.com/bobo369/test/blob/master/image/icon_cilisou_1.jpg )
+![Image text](https://github.com/bobo369/test/blob/master/image/icon_cilisou_2.jpg )
 
 方法二：用浏览器播放
 浏览器用系统自带浏览器或Google的Chrome，其他浏览器暂时不支持！！！
@@ -31,4 +31,4 @@
 浏览器用系统自带浏览器或Google的Chrome，其他浏览器暂时不支持！！！
 懂了没？没懂就卸载软件，这软件不适合你。。。
 
-[This link](https://raw.githubusercontent.com/bobo369/test/master/cilibo-2.5.apk)
+
