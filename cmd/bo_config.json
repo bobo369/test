@@ -1,14 +1,14 @@
 {
   "update_info": {
-            "version_name": "2.7",
-            "version_code": "27",
+            "version_name": "2.8",
+            "version_code": "28",
             "limit_version": "1",
             "limit_content": "修复部分问题",
-            "description": "2.8.0新版本:\n优化下载功能",
+            "description": "2.7.0新版本:\n优化下载功能",
             "update_url":"https://raw.githubusercontent.com/bobo369/test/master/cilibo-2.6.apk",
         },
         "tip_dialog": {
-            "show": "1",
+            "show": "0",
             "title": "公告",
             "notice_content": "注意：新手请点击右上角查看使用帮助！！！",
             "content": "请点击右上角查看最新使用帮助！！！",
