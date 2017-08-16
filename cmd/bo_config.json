@@ -10,7 +10,7 @@
         "tip_dialog": {
             "show": "0",
             "title": "公告",
-            "notice_content": "注意：新手请点击右上角查看使用帮助。",
+            "notice_content": "注意：新手请点击右上角查看使用帮助！！！",
             "content": "请点击右上角查看最新使用帮助！！！",
             "cancelable": 1,
             "button1": "取消"
