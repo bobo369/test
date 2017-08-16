@@ -1,7 +1,7 @@
 {
   "update_info": {
-            "version_name": "2.8",
-            "version_code": "28",
+            "version_name": "2.7",
+            "version_code": "27",
             "limit_version": "1",
             "limit_content": "修复部分问题",
             "description": "2.7.0新版本:\n优化下载功能",
