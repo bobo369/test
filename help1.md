@@ -4,7 +4,7 @@
 
 方法一：下载"磁力超级搜"，这款软件功能很强大：
 
-[点击下载](https://raw.githubusercontent.com/bobo369/test/master/cilisou-1.0.apk)
+[点击下载](https://raw.githubusercontent.com/bobo369/test/master/cilisou-3.0.apk)
 
 就是上面这款软件，不要下载错了，可以直接点击搜索结果打开播放。
 
